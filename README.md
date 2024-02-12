@@ -16,7 +16,7 @@ The K-Means algorithm is first implemented using libraries. This serves as a ben
 
 ## Detailed Explanation
 
-A detailed explanation of the K-Means algorithm, its implementation, and the performance comparison.
+A detailed explanation of the K-Means algorithm, its implementation, and the performance comparison is provided in the notebook.
 
 
 
