@@ -14,10 +14,6 @@ The dataset used in this project is a "Customer Segmentation Dataset" obtained f
 
 The K-Means algorithm is first implemented using libraries. This serves as a benchmark for the implementation from scratch. The algorithm implemented from scratch follows the standard procedure of the K-Means algorithm. It includes initialization of centroids, assignment of data points to the nearest centroid, and updating of centroids.
 
-## Detailed Explanation
-
-Since there are two distinct notebooks, detailed explanation of their implementation and performance is provided in the respective notebooks.
-
 
 
 ## Links to the datasets:
