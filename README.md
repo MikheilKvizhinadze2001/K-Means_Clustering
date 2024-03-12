@@ -22,4 +22,3 @@ Since there are two distinct notebooks, detailed explanation of their implementa
 
 ## Links to the datasets:
 https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset
-https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
